@@ -144,6 +144,12 @@ h3, h2 {
   border: 1px solid #dddddd;
 }
 
+.img-fluid {
+  max-width:35%;
+  height:auto;
+  float:left;
+  padding:5px;
+}
 /* portfolio page */
 
 .work {
@@ -179,10 +185,7 @@ h3, h2 {
   border-bottom: 0;
 }
 
-.img-fluid {
-  max-width:40%;
-  height:auto;
-}
+
 
 
 /* contact page */
